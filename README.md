@@ -20,14 +20,11 @@ Here we collect all the labels, along with its cloud/snow state, into a single c
 
 #### NOTES:
 
-Notes: 
-
 * (1) has been broken into two files due to github's file size restrictions. The reduced files size is also useful if one doesn't need all 600,000 images.  
 * (4) and (5) files can be downloaded directly from [Big Earth Net](http://bigearth.net/).
-
+* Big Earth Net Labels (in descending order of occurrence):
 
 ```
-# Big Earth Net Labels (in descending order of occurrence)
 LABELS=[
     'Mixed forest',
     'Coniferous forest',
