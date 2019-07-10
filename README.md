@@ -2,7 +2,7 @@
 
 [Big Earth Net](http://bigearth.net/) has labeled close to 600,000 Sentinel-2 tiles. This will prove to be extremely useful for a number of projects.
 
-The data is organized such that there is a directory per tile containing a tif file for each individual band and a json file containing the labels along with other meta data. The directory level json files are sufficient, but are not useful if one is looking to balance or select data based on tiles. Additionally [Big Earth Net](http://bigearth.net/) contains files with the tile_ids containing clouds/shadows, and seasonal snow.
+The data is organized such that there is a directory per tile containing a tif file for each individual band and a json file containing the labels along with other meta data. The directory level json files are sufficient, but are not useful if one is looking to balance or select data based on labels.
 
 Here we collect all the labels, along with its cloud/snow state, into a pair of CSVs.  Additionally we add a number of other files which might be useful to anyone working with Big Earth Net.
 
